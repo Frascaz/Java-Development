@@ -4,6 +4,7 @@ import java.util.*;
 
 public class MatriceQuadrata {
 
+    @SuppressWarnings("ConvertToTryWithResources")
     public static void main(String args[]) {
 
         int matrixSize;

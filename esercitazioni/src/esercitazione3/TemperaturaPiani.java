@@ -5,6 +5,7 @@ import java.util.Scanner;
 
 public class TemperaturaPiani {
 
+    @SuppressWarnings("ConvertToTryWithResources")
     public static void main(String args[]) {
 
         System.out.println("Benvenuto " + args[0] + " " + args[1] + "!");
